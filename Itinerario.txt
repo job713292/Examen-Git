@@ -9,3 +9,15 @@ Cepillarme
 Salir a tomar el autobús 
 Al llegar dirigirme al salón de clase 
 Prepararme mentalmente para dar clase 
+
+Horario de clases
+ 
+Ingles                                  6:30-7:20
+Matemáticas                             7:20-8:05
+Competencia Ciudadana                   8:05-8:55
+Religión                                8:55-9:40
+Receso                                  9:40-10:10
+Competencia Científica                  10:10-11:00
+Química                                 11:00-11:50
+Almuerzo                                11:50-12:30
+Castellano                              12:30-1:20
