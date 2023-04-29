@@ -9,3 +9,9 @@ Cepillarme
 Salir a tomar el autobús 
 Al llegar dirigirme a la cancha 
 Prepararme mentalmente para hacer ejercicio 
+
+Horario de clases 
+
+Educacion Fisica                           6:30-8:10
+Receso                                     8:10-12:30
+Taller                                     12:30-4:00
